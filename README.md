@@ -128,7 +128,7 @@ aqi_prediction_system/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/aqi_prediction_system.git
+   git clone https://github.com/mtahir-ds/aqi-prediction-karachi.git
    cd aqi_prediction_system
    ```
 
@@ -265,7 +265,7 @@ This project demonstrates:
 ## 📧 Contact & Attribution
 
 **Project**: AQI Prediction System - Pearls  
-**GitHub**: [aqi_prediction_system](https://github.com/yourusername/aqi_prediction_system)
+**GitHub**: [aqi_prediction_system](https://github.com/mtahir-ds/aqi-prediction-karachi)
 
 ### Technologies & Frameworks
 - **Scikit-learn, XGBoost, TensorFlow** for modeling
